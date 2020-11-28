@@ -105,8 +105,7 @@ public class GameActionClass
         	        	{ //do nothing and retry        	        		
         	        	}
     	            	catch(ElementClickInterceptedException e)
-        	        	{ //do nothing and retry   
-    	            		gameLink.click();break;
+        	        	{ //do nothing and retry   //jsexecuter click by i
         	        	}
     	            	
 	        		}
